@@ -11,3 +11,5 @@ var visitorMessageA = '';
 var visitorMessageB = '';
 
 var visitorMessageC = '';
+
+var test;
