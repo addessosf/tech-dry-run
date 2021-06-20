@@ -1,8 +1,13 @@
 //Tech Dry Run
 
 var hrr18 = {
-  name: 'Keeley Nakamoto'
+  name: 'Michael Lapid'
 }
 
+var welcome = 'Welcome to my Live Share session! Feel free to leave a message below!';
 
+var visitorMessageA = '';
 
+var visitorMessageB = '';
+
+var visitorMessageC = '';
