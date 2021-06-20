@@ -12,4 +12,4 @@ var visitorMessageB = '';
 
 var visitorMessageC = '';
 
-var test = true;
+var test = false;
