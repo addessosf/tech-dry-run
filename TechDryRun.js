@@ -6,10 +6,13 @@ var hrr18 = {
 
 var welcome = 'Welcome to my Live Share session! Feel free to leave a message below!';
 
-var visitorMessageA = '';
+var visitorMessageA = 'testing 1 2 3';
 
 var visitorMessageB = '';
 
 var visitorMessageC = '';
 
-var test = false;
+var test = true;
+
+
+//np
